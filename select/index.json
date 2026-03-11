@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Stitches",
+  "base_artist": "Shawn Mendes",
+  "createdAt": "2026-03-11T05:30:02.049465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stitches",
+      "artist": "POP ETC",
+      "has_synced": true,
+      "path": "select/01_Stitches_POP_ETC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stitches",
+      "artist": "The Morning Benders",
+      "has_synced": true,
+      "path": "select/02_Stitches_The_Morning_Benders.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stitches",
+      "artist": "Mr Little Jeans",
+      "has_synced": true,
+      "path": "select/03_Stitches_Mr_Little_Jeans.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stubborn Stitches",
+      "artist": "The Duke Spirit",
+      "has_synced": true,
+      "path": "select/04_Stubborn_Stitches_The_Duke_Spirit.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stitches and Burns",
+      "artist": "Fra Lippo Lippi",
+      "has_synced": true,
+      "path": "select/05_Stitches_and_Burns_Fra_Lippo_Lippi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stitches",
+      "artist": "Orgy",
+      "has_synced": true,
+      "path": "select/06_Stitches_Orgy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gimme Stitches",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/07_Gimme_Stitches_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Snitches and Talkers Get Stitches and Walkers",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/08_Snitches_and_Talkers_Get_Stitches_and_Walkers_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "13 Stitches",
+      "artist": "NOFX",
+      "has_synced": false,
+      "path": "select/09_13_Stitches_NOFX.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "13 Stitches",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/10_13_Stitches_NOFX.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Devil In Stitches",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/11_The_Devil_In_Stitches_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stitches",
+      "artist": "Skid Row",
+      "has_synced": true,
+      "path": "select/12_Stitches_Skid_Row.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stitches",
+      "artist": "Allele",
+      "has_synced": true,
+      "path": "select/13_Stitches_Allele.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stitches",
+      "artist": "Allele",
+      "has_synced": true,
+      "path": "select/14_Stitches_Allele.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Snitches And Talkers Get Stitches And Walkers",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/15_Snitches_And_Talkers_Get_Stitches_And_Walkers_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stitches",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/16_Stitches_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stitches",
+      "artist": "Shawn Mendes",
+      "has_synced": false,
+      "path": "select/pl_01_Stitches_Shawn_Mendes.txt"
+    }
+  ]
+}
